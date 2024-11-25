@@ -7,7 +7,7 @@ Paste the provided text into LLM system prompt.
 ### Free Le Chat example:
 - Go to [Le Chat](https://chat.mistral.ai/chat) and create a free account.
 - Click on the box with your name located on the bottom left of the screen. 
-- Select account settings from the list. 
+- Select `Account Settings` from the list. 
 - Select `Agents` on the upper left. 
 - Click the orange `Create New Agent` button on the top right. 
 - Under Name enter `YOUR DESIRED AGENT NAME`. 
