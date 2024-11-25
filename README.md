@@ -5,16 +5,16 @@ A collection system prompts to be used to flavor LLM agents for specialised use 
 Paste the provided text into LLM system prompt.
 
 ### Free Le Chat example:
-Go to [Le Chat](https://chat.mistral.ai/chat) and create a free account.
-Click on the box with your name located on the bottom left of the screen.
-Select account settings from the list.
-Select `Agents` on the upper left.
-Click the orange `Create New Agent` button on the top right.
-Under Name enter `YOUR DESIRED AGENT NAME`.
-Under `Instructions/System Prompt` paste the text from the desired `SYSTEM_PROMPT.txt` into the text box.
-Click the orange `Deploy` button at the top right.
-Check the Le Chat box at the top to the left of the `Deploy/Update` button.
-Click the orange `Update` button at the top right.
+- Go to [Le Chat](https://chat.mistral.ai/chat) and create a free account.
+- Click on the box with your name located on the bottom left of the screen. 
+- Select account settings from the list. 
+- Select `Agents` on the upper left. 
+- Click the orange `Create New Agent` button on the top right. 
+- Under Name enter `YOUR DESIRED AGENT NAME`. 
+- Under `Instructions/System Prompt` paste the text from the desired `SYSTEM_PROMPT.txt` into the text box. 
+- Click the orange `Deploy` button at the top right. 
+- Check the Le Chat box at the top to the left of the `Deploy/Update` button. 
+- Click the orange `Update` button at the top right.
 
 ## System Prompts:
 
